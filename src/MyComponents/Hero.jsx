@@ -67,7 +67,7 @@ const Hero = () => {
                     </div>
                     <div className='flex justify-center space-x-4'>
                         <Button onClick={() => scrollToSection('projects')} className='cursor-pointer bg-green-600 hover:bg-green-700'>
-                            <a href="https://drive.google.com/file/d/1wLZyGPdNXdMzL6GTS2y4cLXlkhe5KWLL/view?usp=sharing" target='__blank'>My Resume</a>
+                            <a href="https://drive.google.com/file/d/1LTk3suB6tw5XgdVy6UFcuWMYuQACWOk6/view?usp=sharing" target='__blank'>My Resume</a>
                         </Button>
                         <Button onClick={() => scrollToSection('contact')} className='cursor-pointer'>Get In Touch</Button>
                     </div>
